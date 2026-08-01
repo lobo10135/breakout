@@ -1,7 +1,5 @@
 streamlit
-yfinance
 pandas
-beautifulsoup4
-fpdf
 requests
-lxml
+yfinance
+matplotlib
